@@ -5,15 +5,15 @@ const initialState: InventoryState = {
   items: [
     {
       id: 1,
-      name: 'Socks'
+      name: 'Yeezy'
     },
     {
       id: 2,
-      name: 'Pants'
+      name: 'Air Jordan'
     },
     {
       id: 3,
-      name: 'Shoes'
+      name: 'Ferragamo'
     }
   ]
 }
